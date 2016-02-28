@@ -1,2 +1,2 @@
 # playgit
-A git anв github playground
+My git and github playground
